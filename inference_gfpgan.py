@@ -72,7 +72,7 @@ def main():
             bg_upsampler = RealESRGANer(
                 scale=2,
                 # model_path='https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.1/RealESRGAN_x2plus.pth',
-                model_path="/content/dreamtalk/GFPGAN/gfpgan/weights/RealESRGAN_x2plus.pth",
+                model_path="/content/GFPGAN/gfpgan/weights/RealESRGAN_x2plus.pth",
                 model=model,
                 tile=args.bg_tile,
                 tile_pad=10,
