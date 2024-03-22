@@ -20,7 +20,10 @@ Some Code Copied from
 
 <!-- Copied From https://github.com/s0md3v/roop  -->
 # Disclaimer
-This software is designed to contribute positively to the AI-generated media industry, assisting artists with tasks like character animation , models for clothing etc.
+This software is designed to contribute positively to the AI-generated media industry, assisting artists with tasks like character animation, models for clothing etc.
+
+We are aware of the potential ethical issues and have implemented measures to prevent the software from being used for inappropriate content, such as nudity.
+
 Users are expected to follow local laws and use the software responsibly. If using real faces, get consent and clearly label deepfakes when sharing. The developers aren't liable for user actions.
 # Licenses
 This software uses a lot of third party libraries as well pre-trained models. The users should keep in mind that these third party components have their own license and terms, therefore our license is not being applied.
